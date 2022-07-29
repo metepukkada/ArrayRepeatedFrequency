@@ -1,0 +1,1 @@
+# Girilen Dizideki Elemanların Tekrar Etme Sayısını Bulan Program.
